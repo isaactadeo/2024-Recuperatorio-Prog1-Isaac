@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Dni": 45950891,
+    "Nombre": "tadeo",
+    "Direccion": "adsads",
+    "CodPostal": 2300,
+    "FechaNacimiento": "2024-11-01T21:48:33.318Z",
+    "FechaEliminacion": "0001-01-01T00:00:00",
+    "Contraseña": "339957"
+  },
+  {
+    "Id": 2,
+    "Dni": 4990891,
+    "Nombre": "lechuga",
+    "Direccion": "alvear",
+    "CodPostal": 2300,
+    "FechaNacimiento": "2024-11-01T22:10:35.733Z",
+    "FechaEliminacion": "0001-01-01T00:00:00",
+    "Contraseña": "126127"
+  },
+  {
+    "Id": 3,
+    "Dni": 44940494,
+    "Nombre": "bartolo",
+    "Direccion": "adw",
+    "CodPostal": 2300,
+    "FechaNacimiento": "2024-11-01T22:43:29.578Z",
+    "FechaEliminacion": "0001-01-01T00:00:00",
+    "Contraseña": "614249"
+  }
+]
